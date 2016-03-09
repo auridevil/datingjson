@@ -1,6 +1,6 @@
 {
   "name": "datingjson",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "Convert objects with string-representation of dates to dates object",
   "main": "DatingJson.js",
   "scripts": {
