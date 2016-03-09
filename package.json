@@ -1,0 +1,26 @@
+{
+  "name": "datingjson",
+  "version": "1.0.0",
+  "description": "Convert objects with string-representation of dates to dates object",
+  "main": "DatingJson.js",
+  "scripts": {
+    "test": "./test/test.js"
+  },
+  "engines": {
+    "node": ">=5.7.0"
+  },
+  "keywords": [
+    "json",
+    "date",
+    "nodejs"
+  ],
+  "author": "Aureliano Bergese",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "mocha": "^2.4.5"
+  }
+}
