@@ -6,6 +6,10 @@
   "scripts": {
     "test": "./test/test.js"
   },
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/auridevil/datingjson.git"
+  },
   "engines": {
     "node": ">=5.7.0"
   },
